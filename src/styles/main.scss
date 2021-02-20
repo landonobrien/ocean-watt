@@ -1,0 +1,33 @@
+html, body {
+    background-color: #434A4F;
+    color: white;
+}
+
+.instructions {
+    margin-top: 100px;
+}
+
+.bunker-map {
+    width: 350px;
+}
+
+.porthole-img {
+    position: absolute;
+    margin: 0 auto;
+    display: block;
+    top: 0;
+}
+
+.porthole-canvas {
+    margin-top: 20px;
+}
+
+.buy-item {
+    text-align: left;
+
+    .tile-title{
+        color: #333;
+    }
+    
+    background-color: #ffffff;
+}
